@@ -31,3 +31,5 @@ const postList = [
       tags: ["dessert", "tradition", "cake", "stale bread"]
     }
   ]
+
+  module.exports = postList
